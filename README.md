@@ -87,7 +87,7 @@ Thank you for visiting The Tree Portal.
 
 ## Code Contributors
 
-This project exists thanks to all the people who contribute. 
+This project exists thanks to all the people who contribute.
 
 - [Emran Ali](https://github.com/emran-ai)
 - [Said Ak](https://github.com/saidakf) 
@@ -98,3 +98,4 @@ This project exists thanks to all the people who contribute.
 Copyright © 2023 [Emran Ali](https://github.com/emran-ai).
 
 This project is licensed under the [MIT License](https://github.com/HYF-Class20/home/blob/main/LICENSE).
+
