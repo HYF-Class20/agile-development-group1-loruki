@@ -83,7 +83,7 @@ website or a business looking for a reliable hosting solution, Loruki has
 everything you need to get started. Loruki is an ideal choice for those looking
 for a reliable and scalable hosting solution.
 
-Thank you for visiting The Tree Portal.
+Thank you for visiting Loruki.
 
 ## Code Contributors
 
