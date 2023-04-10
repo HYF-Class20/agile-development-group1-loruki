@@ -10,11 +10,11 @@ fictional cloud hosting service. The website features a clean and modern design,
 with carefully curated typography, color palette, and imagery that convey a
 sense of trust and reliability to potential customers.
 
-The goal of this project was to create a website that not only looks great but
-also provides a seamless user experience, conveying the benefits of a cloud
-hosting service to potential customers. Whether you are an individual looking to
-host your personal website or a business looking for a reliable hosting
-solution, Loruki has everything you need to get started.
+The primary goal of this project was to create a website that not only looks
+great but also provides a seamless user experience, conveying the benefits of a
+cloud hosting service to potential customers. Whether you are an individual
+looking to host your personal website or a business looking for a reliable
+hosting solution, Loruki offers all the features you need to get started.
 
 ## Table of contents
 
