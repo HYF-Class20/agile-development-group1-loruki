@@ -90,7 +90,7 @@ Thank you for visiting The Tree Portal.
 This project exists thanks to all the people who contribute.
 
 - [Emran Ali](https://github.com/emran-ai)
-- [Said Ak](https://github.com/saidakf)
+- [Saida KF](https://github.com/saidakf)
 - and other contributors have worked hard to make this project a success.
 
 ## License
