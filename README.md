@@ -90,12 +90,12 @@ Thank you for visiting The Tree Portal.
 This project exists thanks to all the people who contribute.
 
 - [Emran Ali](https://github.com/emran-ai)
-- [Said Ak](https://github.com/saidakf) 
+- [Said Ak](https://github.com/saidakf)
 - and other contributors have worked hard to make this project a success.
-
 
 ## License
 
 Copyright © 2023 [Emran Ali](https://github.com/emran-ai).
 
-This project is licensed under the [MIT License](https://github.com/HYF-Class20/home/blob/main/LICENSE).
+This project is licensed under the
+[MIT License](https://github.com/HYF-Class20/home/blob/main/LICENSE).
