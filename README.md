@@ -1,128 +1,59 @@
-# Name of project
+# Loruki
+Loruki is a website showcasing a fictional cloud hosting service with a sleek and modern design.
 
-> A longer description
+## Description
+Loruki is a responsive and visually appealing website designed to showcase a fictional cloud hosting service. The website features a clean and modern design, with carefully curated typography, color palette, and imagery that convey a sense of trust and reliability to potential customers.
+
+The goal of this project was to create a website that not only looks great but also provides a seamless user experience, conveying the benefits of a cloud hosting service to potential customers. Whether you are an individual looking to host your personal website or a business looking for a reliable hosting solution, Loruki has everything you need to get started.
 
 ## Table of contents
+- [Branching Out](#branching-out)
+  - [Project title](#project-title)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#Description)
+  - [Content](#content)
+  - [Interactive Tools](#interactive-tools)
+  - [Technology Used](#technology-used)
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+## Content
+The content of the Loruki website includes various sections and pages that aim to inform visitors about the features and benefits of the fictional cloud hosting service. Some of the main content elements of the website include:
 
-## General info
+- _Home Page_:The landing page of the website that provides an overview of Loruki's services, features, and benefits. It includes a hero section with a call-to-action button, a section with some of the key features of Loruki's hosting plans, and a pricing section with different plans and prices.
 
-> A short description
+- _Docs page_:A page that contains documentation and instructions for using Loruki's hosting services. It includes detailed information about how to set up and manage websites, domains, email, and other aspects of hosting.
 
-## Screenshots
+- _Features page_:A page that provides a more detailed overview of the features and benefits of Loruki's hosting plans. It includes sections about the hosting infrastructure, server performance, security, control panel, and customer support.
 
-![Example screenshot](./planning/screenshot.jpg)
+## Interactive Tools
+The Loruki website goes beyond static content and includes interactive tools that effectively engage and reinforce knowledge. Additionally, the website offers ample opportunity for visitors to learn and practice a range of programming languages, supported by a wide array of web development resources. With an emphasis on education and skills development, Loruki empowers users to advance their technical capabilities and achieve their goals.
 
-## Technologies
+## Technology Used
+  The website is built using HTML, CSS, and JavaScript, and is fully responsive, adapting seamlessly to different screen sizes and devices. It features a range of interactive elements, including dropdown menus, accordions, and a contact form, which help to enhance the user experience.
 
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+## Contribution Guidelines
+Contributions to this project are welcome! If you would like to contribute,
+please follow these guidelines:
 
-## Setup
+- Fork the repository and create a new branch for your changes.
+- Choose from the following types of contributions:
 
-- `npm run start`
+  - Bug fixes
+  - New features
 
-## Code Examples
+## Conclusion
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+In conclusion, Loruki is a well-designed and user-friendly website that showcases a fictional cloud hosting service. The website features a clean and modern design, with interactive tools and resources that effectively engage and educate visitors. Whether you are an individual looking to host your personal website or a business looking for a reliable hosting solution, Loruki has everything you need to get started. Loruki is an ideal choice for those looking for a reliable and scalable hosting solution.
 
-## Features
+Thank you for visiting The Tree Portal.
 
-List of features ready and Todos for future development
+## Code Contributors
 
--
--
--
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/emran-ai">Emran Ali</a>, 
+<a href="https://github.com/saidakf">Said Ak</a>, 
+and other contributors have worked hard to make this project a success.
 
-To-do list:
+## 📝 License
 
--
--
-
-## Status
-
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
-
-## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
-
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
-
-</details>
+Copyright © 2023 [Emran Hamdard](https://github.com/emran-ai).<br />
+This project is [MIT](https://github.com/HYF-Class20/home/blob/main/LICENSE) licensed.
