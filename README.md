@@ -91,13 +91,10 @@ Thank you for visiting Loruki.
 
 This project exists thanks to all the people who contribute.
 
-<<<<<<< HEAD
+
 - [Emran Hamdard](https://github.com/emran-ai)
 - [Said KF](https://github.com/saidakf)
-=======
-- [Emran Ali](https://github.com/emran-ai)
-- [Saida KF](https://github.com/saidakf)
->>>>>>> master
+
 - and other contributors have worked hard to make this project a success.
 
 ## License
