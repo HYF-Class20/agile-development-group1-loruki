@@ -49,3 +49,6 @@ account and is pleased with the excellent customer support he receives when he
 has a question about configuring his server.
 
 # User Persona 3: Tech Student
+
+**Role:** College student who is interested in learning more about web
+development.
