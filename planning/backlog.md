@@ -58,3 +58,6 @@
 - As Sarah, a small business owner, I want to be able to easily integrate with
   popular e-commerce platforms such as Shopify, so that I can efficiently manage
   my online store.
+  - _Given that I use popular e-commerce platforms, when I sign up for a cloud
+    hosting provider, then I should be able to easily integrate with them to
+    efficiently manage my online store._
