@@ -20,6 +20,11 @@ create your own!
 
 
 ## Should-Haves
+- As Sarah, a small business owner, I want to be able to easily configure my server and have access to reliable customer support, so that I can efficiently manage my website and get help when I need it.
+  - _Given that I am new to cloud hosting and need to manage my website efficiently, when I sign up for a cloud hosting provider, then I should be able to easily configure my server and have access to reliable customer support._
+
+- As Alex, a web developer, I want to have access to robust security features to ensure that my clients' data is protected, so that I can build trust with my clients and ensure their privacy.
+  - _Given that I need to protect my clients' data, when I sign up for a cloud hosting provider, then I should have access to robust security features such as SSL certificates and DDoS protection._
 
 
 
