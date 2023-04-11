@@ -43,3 +43,6 @@
   ensure that my clients' data is protected, so that I can build trust with my
   clients and ensure their privacy.
 
+  - _Given that I need to protect my clients' data, when I sign up for a cloud
+    hosting provider, then I should have access to robust security features
+    (such as SSL certificates and DDoS protection)._
