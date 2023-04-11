@@ -15,8 +15,14 @@
 - As a site visitor, I can see the features of the cloud hosting service so that I can understand what the service offers.
   - there is a clear and concise list of features on the page, they are easy to understand, well-organized and displayed in a visually appealing way
 
-## Should-Haves
+## Should Haves
+> Will complete the user experience, but are not necessary
 
+- As a site visitor, I can see customer testimonials so that I can understand the quality of the service.
+  - there is a section on the page that showcases customer testimonials that are well-written and descriptive
+
+- As a site visitor, I can see the customer support options so that I can get help if I need it.
+  - there is a section on the page that outlines the customer support options, they are clearly identified and easy to access
 
 ## Could-Haves
 
