@@ -61,3 +61,5 @@
   - _Given that I use popular e-commerce platforms, when I sign up for a cloud
     hosting provider, then I should be able to easily integrate with them to
     efficiently manage my online store._
+- As Alex, a web developer, I want to have access to server logs and analytics,
+  so that I can troubleshoot issues and optimize performance.
