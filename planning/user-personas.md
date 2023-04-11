@@ -48,4 +48,4 @@ well as the fast loading times and reliable uptime. He decides to sign up for an
 account and is pleased with the excellent customer support he receives when he
 has a question about configuring his server.
 
-# User Persona 2: Web Developer
+# User Persona 3: Tech-savvy Student
