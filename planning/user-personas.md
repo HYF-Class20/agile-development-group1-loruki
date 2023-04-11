@@ -51,4 +51,6 @@ has a question about configuring his server.
 # User Persona 3: Tech Student
 
 **Role:** College student who is interested in learning more about web
-development.
+development. **Bio:** Maria is a 22-year-old college student who is studying
+computer science. She is interested in learning more about web development and
+wants to build her own website as a personal project.
