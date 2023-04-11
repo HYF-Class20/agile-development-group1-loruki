@@ -18,7 +18,6 @@ create your own!
 - As Maria, a tech-savvy student, I want to have access to affordable and reliable cloud hosting with user-friendly tools and resources to help me learn more about web development, so that I can build my own website as a personal project.
   - _Given that I am new to cloud hosting and want to build my own website as a personal project, when I search for cloud hosting providers online, then I should be able to find affordable and reliable options with user-friendly tools and resources to help me learn more about web development._
 
-
 ## Should-Haves
 - As Sarah, a small business owner, I want to be able to easily configure my server and have access to reliable customer support, so that I can efficiently manage my website and get help when I need it.
   - _Given that I am new to cloud hosting and need to manage my website efficiently, when I sign up for a cloud hosting provider, then I should be able to easily configure my server and have access to reliable customer support._
@@ -29,7 +28,7 @@ create your own!
 - As Maria, a tech-savvy student, I want to have access to a variety of programming languages and frameworks, so that I can learn and experiment with different technologies.
   - _Given that I am interested in learning more about web development, when I sign up for a cloud hosting provider, then I should have access to a variety of programming languages and frameworks to experiment with._
 
-
-
 ## Could-Haves
+- As Sarah, a small business owner, I want to be able to easily integrate with popular e-commerce platforms such as Shopify, so that I can efficiently manage my online store.
+  - _Given that I use popular e-commerce platforms, when I sign up for a cloud hosting provider, then I should be able to easily integrate with them to efficiently manage my online store._
 
