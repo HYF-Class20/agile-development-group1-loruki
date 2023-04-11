@@ -34,3 +34,6 @@ create your own!
 
 - As Alex, a web developer, I want to have access to server logs and analytics, so that I can troubleshoot issues and optimize performance.
   - _Given that I need to troubleshoot issues and optimize performance, when I sign up for a cloud hosting provider, then I should have access to server logs and analytics._
+
+- As Maria, a tech-savvy student, I want to have access to a community forum or support network, so that I can ask questions and get help from other users.
+  - _Given that I am new to web development, when I sign up for a cloud hosting provider, then I should have access to a community forum or support network to ask questions and get help from other users._
