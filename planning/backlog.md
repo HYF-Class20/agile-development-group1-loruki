@@ -30,3 +30,7 @@
     tools and resources to help me learn more about web development._
 
 ## Should-Haves
+
+- As Sarah, a small business owner, I want to be able to easily configure my
+  server and have access to reliable customer support, so that I can efficiently
+  manage my website and get help when I need it.
