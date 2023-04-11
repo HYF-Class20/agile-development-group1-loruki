@@ -9,3 +9,13 @@
     store, when I search for cloud hosting providers online, then I should be
     able to find pricing plans with flexible resources that fit my budget and
     provide the scalability I need._
+
+- As Alex, a web developer, I want to have access to a user-friendly control
+  panel with tools and resources for website optimization, so that I can
+  efficiently manage my web applications and ensure fast and reliable hosting
+  for my clients.
+
+  - _Given that I need to build and deploy web applications for my clients, when
+    I sign up for a cloud hosting provider, then I should have access to a
+    user-friendly control panel with optimization tools and resources to ensure
+    fast and reliable hosting._
