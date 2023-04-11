@@ -34,3 +34,7 @@
 - As Sarah, a small business owner, I want to be able to easily configure my
   server and have access to reliable customer support, so that I can efficiently
   manage my website and get help when I need it.
+  - _Given that I am new to cloud hosting and need to manage my website
+    efficiently, when I sign up for a cloud hosting provider, then I should be
+    able to easily configure my server and have access to reliable customer
+    support._
