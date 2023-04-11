@@ -65,3 +65,9 @@ about web development.
 **Frustrations:** Maria is new to cloud hosting and is worried about choosing
 the wrong provider. She is concerned about the cost and potential downtime, and
 she wants to ensure that her website is secure.
+
+**Scenario 1:** Maria comes across the Loruki website while searching for cloud
+hosting providers online. She is impressed by the affordable pricing plans and
+user-friendly control panel offered. She decides to sign up for an account and
+is pleased with the helpful resources provided to help her get started with web
+development.
