@@ -49,3 +49,8 @@
 - As Maria, a tech-savvy student, I want to have access to a variety of
   programming languages and frameworks, so that I can learn and experiment with
   different technologies.
+
+   - _Given that I am interested in learning more about web development, when I
+    sign up for a cloud hosting provider, then I should have access to a variety
+    of programming languages and frameworks to experiment with._
+
