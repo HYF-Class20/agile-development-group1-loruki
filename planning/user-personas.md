@@ -1,4 +1,6 @@
-# User Persona 1: Small Business Owner
+# User Personas
+
+## User Persona 1: Small Business Owner
 
 **Role:** Small business owner who manages an online store.
 
