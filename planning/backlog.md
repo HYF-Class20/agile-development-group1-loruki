@@ -32,3 +32,5 @@ create your own!
 - As Sarah, a small business owner, I want to be able to easily integrate with popular e-commerce platforms such as Shopify, so that I can efficiently manage my online store.
   - _Given that I use popular e-commerce platforms, when I sign up for a cloud hosting provider, then I should be able to easily integrate with them to efficiently manage my online store._
 
+- As Alex, a web developer, I want to have access to server logs and analytics, so that I can troubleshoot issues and optimize performance.
+  - _Given that I need to troubleshoot issues and optimize performance, when I sign up for a cloud hosting provider, then I should have access to server logs and analytics._
