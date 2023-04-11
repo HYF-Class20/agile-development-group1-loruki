@@ -38,3 +38,8 @@
     efficiently, when I sign up for a cloud hosting provider, then I should be
     able to easily configure my server and have access to reliable customer
     support._
+
+- As Alex, a web developer, I want to have access to robust security features to
+  ensure that my clients' data is protected, so that I can build trust with my
+  clients and ensure their privacy.
+
