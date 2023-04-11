@@ -24,7 +24,7 @@ and is pleased with the user-friendly control panel and website optimization
 tools offered. She also appreciates the excellent customer support she receives
 when she has a question about configuring her server.
 
-# User Persona 2: Web Developer
+## User Persona 2: Web Developer
 
 **Role:** Web developer who builds custom websites and web applications.
 
@@ -48,7 +48,7 @@ well as the fast loading times and reliable uptime. He decides to sign up for an
 account and is pleased with the excellent customer support he receives when he
 has a question about configuring his server.
 
-# User Persona 3: Tech Student
+## User Persona 3: Tech Student
 
 **Role:** College student who is interested in learning more about web
 development.
