@@ -47,3 +47,5 @@ hosting providers online. He is impressed by the range of features offered, as
 well as the fast loading times and reliable uptime. He decides to sign up for an
 account and is pleased with the excellent customer support he receives when he
 has a question about configuring his server.
+
+# User Persona 2: Web Developer
