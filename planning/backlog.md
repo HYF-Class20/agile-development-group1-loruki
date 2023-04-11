@@ -55,3 +55,6 @@
     of programming languages and frameworks to experiment with._
 
 ## Could-Haves
+- As Sarah, a small business owner, I want to be able to easily integrate with
+  popular e-commerce platforms such as Shopify, so that I can efficiently manage
+  my online store.
