@@ -26,6 +26,9 @@ create your own!
 - As Alex, a web developer, I want to have access to robust security features to ensure that my clients' data is protected, so that I can build trust with my clients and ensure their privacy.
   - _Given that I need to protect my clients' data, when I sign up for a cloud hosting provider, then I should have access to robust security features such as SSL certificates and DDoS protection._
 
+- As Maria, a tech-savvy student, I want to have access to a variety of programming languages and frameworks, so that I can learn and experiment with different technologies.
+  - _Given that I am interested in learning more about web development, when I sign up for a cloud hosting provider, then I should have access to a variety of programming languages and frameworks to experiment with._
+
 
 
 ## Could-Haves
