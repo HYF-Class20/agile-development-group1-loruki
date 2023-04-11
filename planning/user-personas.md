@@ -61,3 +61,7 @@ build her own website as a personal project.
 her affordable and reliable hosting for her website. She is also interested in a
 provider that offers user-friendly tools and resources to help her learn more
 about web development.
+
+**Frustrations:** Maria is new to cloud hosting and is worried about choosing
+the wrong provider. She is concerned about the cost and potential downtime, and
+she wants to ensure that her website is secure.
