@@ -92,7 +92,7 @@ Thank you for visiting Loruki.
 This project exists thanks to all the people who contribute.
 
 - [Emran Hamdard](https://github.com/emran-ai)
-- [Said KF](https://github.com/saidakf)
+- [Saida KF](https://github.com/saidakf)
 
 - and other contributors have worked hard to make this project a success.
 
