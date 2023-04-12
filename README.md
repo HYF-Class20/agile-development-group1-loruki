@@ -98,7 +98,5 @@ This project exists thanks to all the people who contribute.
 
 ## License
 
-
-
 This project is licensed under the
 [MIT License](https://github.com/HYF-Class20/home/blob/main/LICENSE).
