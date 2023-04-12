@@ -1,80 +1,60 @@
 # Backlog
 
-## Must-Haves
+## Must Haves
 
-- As Sarah, a small business owner, I want to be able to choose from affordable
-  pricing plans with scalable resources, so that I can find a cloud hosting
-  provider that fits my budget and supports my growing business.
+> These are necessary for basic usability
 
-  - _Given that I need reliable and affordable cloud hosting for my online
-    store, when I search for cloud hosting providers online, then I should be
-    able to find pricing plans with flexible resources that fit my budget and
-    provide the scalability I need._
+- As a site visitor, I can see the main navigation menu so that I can access
+  different pages on the website.
 
-- As Alex, a web developer, I want to have access to a user-friendly control
-  panel with tools and resources for website optimization, so that I can
-  efficiently manage my web applications and ensure fast and reliable hosting
-  for my clients.
+  - there is a horizontal navigation menu at the top of the page, that is
+    clearly visible and easily identifiable and the items are relevant and easy
+    to understand
 
-  - _Given that I need to build and deploy web applications for my clients, when
-    I sign up for a cloud hosting provider, then I should have access to a
-    user-friendly control panel with optimization tools and resources to ensure
-    fast and reliable hosting._
+- As a site visitor, I can see a clear and concise headline that describes the
+  cloud hosting service.
 
-- As Maria, a tech-savvy student, I want to have access to affordable and
-  reliable cloud hosting with user-friendly tools and resources to help me learn
-  more about web development, so that I can build my own website as a personal
-  project.
-  - _Given that I am new to cloud hosting and want to build my own website as a
-    personal project, when I search for cloud hosting providers online, then I
-    should be able to find affordable and reliable options with user-friendly
-    tools and resources to help me learn more about web development._
+  - there is a headline that is prominently displayed on the page that is
+    descriptive and provides a clear understanding of the service
 
-## Should-Haves
+- As a site visitor, I can see the pricing information so that I can understand
+  the cost of the service.
 
-- As Sarah, a small business owner, I want to be able to easily configure my
-  server and have access to reliable customer support, so that I can efficiently
-  manage my website and get help when I need it.
+  - there is a clear pricing section on the page, that is easy to understand and
+    transparent
 
-  - _Given that I am new to cloud hosting and need to manage my website
-    efficiently, when I sign up for a cloud hosting provider, then I should be
-    able to easily configure my server and have access to reliable customer
-    support._
+- As a site visitor, I can see the features of the cloud hosting service so that
+  I can understand what the service offers.
+  - there is a clear and concise list of features on the page, they are easy to
+    understand, well-organized and displayed in a visually appealing way
 
-- As Alex, a web developer, I want to have access to robust security features to
-  ensure that my clients' data is protected, so that I can build trust with my
-  clients and ensure their privacy.
+## Should Haves
 
-  - _Given that I need to protect my clients' data, when I sign up for a cloud
-    hosting provider, then I should have access to robust security features
-    (such as SSL certificates and DDoS protection)._
+> Will complete the user experience, but are not necessary
 
-- As Maria, a tech-savvy student, I want to have access to a variety of
-  programming languages and frameworks, so that I can learn and experiment with
-  different technologies.
-  - _Given that I am interested in learning more about web development, when I
-    sign up for a cloud hosting provider, then I should have access to a variety
-    of programming languages and frameworks to experiment with._
+- As a site visitor, I can see customer testimonials so that I can understand
+  the quality of the service.
 
-## Could-Haves
+  - there is a section on the page that showcases customer testimonials that are
+    well-written and descriptive
 
-- As Sarah, a small business owner, I want to be able to easily integrate with
-  popular e-commerce platforms such as Shopify, so that I can efficiently manage
-  my online store.
+- As a site visitor, I can see the customer support options so that I can get
+  help if I need it.
+  - there is a section on the page that outlines the customer support options,
+    they are clearly identified and easy to access
 
-  - _Given that I use popular e-commerce platforms, when I sign up for a cloud
-    hosting provider, then I should be able to easily integrate with them to
-    efficiently manage my online store._
+## Could Haves
 
-- As Alex, a web developer, I want to have access to server logs and analytics,
-  so that I can troubleshoot issues and optimize performance.
+> Would be really cool... if there's time
 
-  - _Given that I need to troubleshoot issues and optimize performance, when I
-    sign up for a cloud hosting provider, then I should have access to server
-    logs and analytics._
+- As a site visitor, I can see a video that showcases the features and benefits
+  of the cloud hosting service.
 
-- As Maria, a tech-savvy student, I want to have access to a community forum or
-  support network, so that I can ask questions and get help from other users.
-  - _Given that I am new to web development, when I sign up for a cloud hosting
-    provider, then I should have access to a community forum or support network
-    to ask questions and get help from other users._
+  - there is a video on the page that highlights the key features and benefits
+    of the service, that is informative and engaging
+
+- As a site visitor, I can see a live chat option so that I can get immediate
+  help.
+  - there is a live chat option on the page that allows me to chat with a
+    customer support representative in real-time and is available 24/7 and
+    provides helpful and timely support
