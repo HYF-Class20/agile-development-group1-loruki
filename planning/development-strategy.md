@@ -1,4 +1,4 @@
-# Loruki.
+# Loruki
 
 Loruki is a stunning website that showcases a fictional cloud hosting service.
 From the moment you land on the site, you're greeted with a beautiful, modern
